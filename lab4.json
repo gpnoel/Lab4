@@ -1,0 +1,40 @@
+{
+	"playlist":[
+		{
+			"track_name":"Halo (ft. Kill Paradise)",
+			"artist":"James Egbert",
+			"album":"In The Beginning",
+			"album_art_url":"./ref/In_the_Beginning.jpg",
+			"date":2012,
+			"artist_site_url":"https://soundcloud.com/jamesegbert",
+			"genres":"Dubstep"
+		},
+		{
+			"track_name":"Sally's Dance",
+			"artist":"Parov Stelar",
+			"album":"The Princess-Part 2",
+			"album_art_url":"./ref/The_Princess.jpg",
+			"date":2012,
+			"artist_site_url":"https://soundcloud.com/parov_stelar",
+			"genres":"Electric Swing"
+		},
+		{
+			"track_name":"FFYL (Tarro Remix)",
+			"artist":"Quinn",
+			"album":"FFYL",
+			"album_art_url":"./ref/FFYL.png",
+			"date":2015,
+			"artist_site_url":"https://soundcloud.com/tarroofficial",
+			"genres":"Future Bass"
+		},
+		{
+			"track_name":"Still Chasing Nothing (Subtact Remix)",
+			"artist":"Kid Astray",
+			"album":"Home Before the Dark",
+			"album_art_url":"./ref/Home_Before_the_Dark.png",
+			"date":2015,
+			"artist_site_url":"https://soundcloud.com/subtact",
+			"genres":"Future"
+		}
+	]
+}
