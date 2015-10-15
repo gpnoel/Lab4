@@ -6,12 +6,12 @@ $(document).ready(function(){
 
 		//adds <ul> tags to respective containers (divs/headers)
 		$("<ul>").appendTo("#title").css({"width":"150px", "list-style":"none", "float":"left",	"padding-right":"25px",	"padding-left":"0px", "margin":"0px", "width": "auto"});
-   	  	$("<ul>").appendTo("#artist").css({"width":"150px", "list-style":"none", "float":"left",	"padding-right":"25px",	"padding-left":"0px", "margin":"0px", "width": "auto"});
+   	  	$("<ul>").appendTo("#artist").css({"width":"150px", "list-style":"none", "float":"left", "padding-right":"25px", "padding-left":"0px", "margin":"0px", "width": "auto"});
    	  	$("<ul>").appendTo("#album").css({"width":"150px", "list-style":"none", "float":"left",	"padding-right":"25px",	"padding-left":"0px", "margin":"0px", "width": "auto"});
    	  	$("<ul>").appendTo("#date").css({"width":"150px", "list-style":"none", "float":"left",	"padding-right":"25px",	"padding-left":"0px", "margin":"0px", "width": "auto"});
    	  	//since a <ul> tag was already created for me, I just edited its css
-   	  	$("#genres ul").css({"width":"150px", "list-style":"none", "float":"left",	"padding-right":"25px",	"padding-left":"0px", "margin":"0px", "width": "auto"});
-   	  	$("<ul>").appendTo("#artist_link").css({"width":"150px", "list-style":"none", "float":"left",	"padding-right":"25px",	"padding-left":"0px", "margin":"0px", "width": "auto"});
+   	  	$("#genres ul").css({"width":"150px", "list-style":"none", "float":"left", "padding-right":"25px", "padding-left":"0px", "margin":"0px", "width": "auto"});
+   	  	$("<ul>").appendTo("#artist_link").css({"width":"150px", "list-style":"none", "float":"left", "padding-right":"25px", "padding-left":"0px", "margin":"0px", "width": "auto"});
    	  	$("<ul>").appendTo("#cover").css({"width":"150px", "list-style":"none", "float":"left",	"padding-right":"25px",	"padding-left":"0px", "margin":"0px", "width": "auto"});
 
 		$.ajax({
